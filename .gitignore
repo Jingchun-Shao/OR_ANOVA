@@ -1,0 +1,8 @@
+# Keep only the datasets used by the public experiments.
+/datasets/*
+!/datasets/energy_efficiency/
+!/datasets/multinary perovskite oxides/
+
+# Local development and archived experiments.
+/Todo/
+/version_old/
